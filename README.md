@@ -15,10 +15,10 @@ Explore tuples and arrays, which allow you to store multiple values in a structu
 ### ✅ 3. Functions
 Learn how to define and call functions to organize your code and improve reusability.
 
-### 4. Ownership
+### ✅ 4. Ownership
 Dive into Rust’s unique ownership system, which ensures memory safety without the need for a garbage collector.
 
-### 5. Borrowing and References
+### ✅ 5. Borrowing and References
 Master Rust’s approach to references and borrowing, allowing you to safely access data without taking ownership.
 
 ### 6. Variables and Mutability
@@ -55,3 +55,15 @@ Master advanced data structures for efficient data management:
 - **Hash Maps**: Key-value storage for quick data retrieval.
 
 ---
+
+## How to Run Examples Manually
+
+1. **Compile the Source File**:
+   Navigate to the source directory and compile a Rust file using:
+   ```bash
+   rustc filename.rs
+   ```
+2. **Run the Executable**:
+    ```bash
+    ./filename
+    ```
